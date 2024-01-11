@@ -1,9 +1,7 @@
 # CSE 15L Lab Report 1 - Adomas Vaitkus
 cd command examples:
 1.
-   
-   
-   ![Image](Lab1SS1.png)
+   * ![Image](Lab1SS1.png)
    * The working directory when the code was run was /home/lecture1
    * The output with no arguments resulted in changing the directory back to /home
    * The output is not an error
