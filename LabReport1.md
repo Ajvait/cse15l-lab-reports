@@ -26,22 +26,22 @@
 
   * ![Image](Lab1SS4.png)
   * The working directory whent the code was run was /home
-  * The output was a list of all possible next steps in the directory path in this case the only possible one was lecture1
-  * There was no error as it simply lists the possible following paths of the current directory
+  * The output was a list of all possible subfolders and/or files in the directory path in this case the only possible option was subfolder lecture1
+  * There was no error as it simply lists the content of the current directory
 
 2.
 
   * ![Image](Lab1SS5.png)
   * The working directory when the code was run was /home
-  * When given a directory as an argument, it lists all possible following steps for that directory which is shown when calling for `ls` lecture1
-  * There was no error as lecture1 is a directory that can have following steps
+  * When given a directory as an argument, it lists all contained subfolders and/or files for that directory which is shown when calling for `ls` lecture1
+  * There was no error as lecture1 is a subdirectory of /home
 
 3.
 
   * ![Image](Lab1SS6.png)
   * The working directory when the code was run was /home
-  * The argument given was for a file, nothing can follow a file in the directory so therefore there was an error.
-  * An error existed as `ls` must take the parameter of a directory not a file
+  * The argument given was a file, since a file cannot have any subfolders or files contained within it, the output was simply the same as the argument
+  * An error did not exist as a file could be found
 
 **`cat` command examples:**
 
