@@ -1,3 +1,21 @@
 # CSE 15L Lab Report 2 - Adomas Vaitkus
 
-Part 1:
+**Part 1:**
+ChatServer Code:
+![Image](ChatServer.png)
+
+Using `/add-message`
+![Image](ChatServerTest1.png)
+
+* For this screenshot, the method `handleRequest` is called.
+* The relevent argument to this method is the url of the server that was created. Two ArrayList fields were created to store the users and messages when `/add-message` is used. Each time, the user and message would be stored in the ArrayList.
+* Elements are constantly being added to the `messages` and `users` ArrayLists in order to keep track of all the uses of `/add-message`.
+
+![Image](ChatServerTest2.png)
+
+* For this screenshot, the method `handleRequest` is called.
+* The relevent argument to this method is the url of the server that was created. Two ArrayList fields were created to store the users and messages when `/add-message` is used. Each time, the user and message would be stored in the ArrayList.
+* Elements are constantly being added to the `messages` and `users` ArrayLists in order to keep track of all the uses of `/add-message`. In this case, the first message in is also printed by accessing the values in the 0th indeces of the two ArrayLists.
+
+**Part 2:**
+
