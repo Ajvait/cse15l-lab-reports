@@ -18,4 +18,14 @@ Using `/add-message`
 * Elements are constantly being added to the `messages` and `users` ArrayLists in order to keep track of all the uses of `/add-message`. In this case, the first message in is also printed by accessing the values in the 0th indeces of the two ArrayLists.
 
 **Part 2:**
+Path to Private Key:
+![Image](PrivateKey.png)
 
+Path to Public Key:
+![Image](PublicKey.png)
+
+No Password Login:
+![Image](NoPasswordRequired.png
+
+**Part 3:**
+Something that I learned how to do these past two weeks is how urls work. Me, being someone who uses the internet regularly does not think much of the urls I use, now all that I see are things such as the path, domain, and parameters.
