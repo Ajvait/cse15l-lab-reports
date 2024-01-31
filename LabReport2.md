@@ -25,7 +25,7 @@ Path to Public Key:
 ![Image](PublicKey.png)
 
 No Password Login:
-![Image](NoPasswordRequired.png
+![Image](NoPasswordRequired.png)
 
 **Part 3:**
 Something that I learned how to do these past two weeks is how urls work. Me, being someone who uses the internet regularly does not think much of the urls I use, now all that I see are things such as the path, domain, and parameters.
