@@ -8,7 +8,7 @@ Using `/add-message`
 ![Image](ChatServerTest1.png)
 
 * For this screenshot, the method `handleRequest` is called.
-* The relevent argument to this method is the url of the server that was created. Two ArrayList fields were created to store the users and messages when `/add-message` is used. Each time, the user and message would be stored in the ArrayList.
+* The relevent arguments to this method are s=Hello and user=jpolitz. Two ArrayList fields were created to store the users and messages when `/add-message` is used. Each time, the user and message would be stored in the ArrayList.
 * Elements are constantly being added to the `messages` and `users` ArrayLists in order to keep track of all the uses of `/add-message`.
 
 ![Image](ChatServerTest2.png)
