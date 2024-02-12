@@ -19,7 +19,8 @@ Using `/add-message`
 
 **Part 2:**
 Path to Private Key:
-![Image](PrivateKey.png)
+
+![Image](PrivateKeyRedo.png)
 
 Path to Public Key:
 ![Image](PublicKey.png)
