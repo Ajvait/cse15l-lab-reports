@@ -1,4 +1,4 @@
-# CSE 15L Lab Report 2 - Adomas Vaitkus
+# CSE 15L Lab Report 3 - Adomas Vaitkus
 
 **Part 1:**
 
