@@ -64,8 +64,11 @@ I used the tester script again and got the desired results according to the task
 Keys Pressed:
 `git<space>commit<space>L<tab><enter>`
 `committed:wq!<enter>`
+`git<space>remote<space>set-url<space>origin<git@github.com/lab7.git<enter>`
+`git<space>push<space>origin<space>main`
 
 Explanation:
-Used the `git commit` command on `ListExamples.java` and then entered my message before using `wq!` to save and quit out of the `git commit` command and received the message shown below.
+Used the `git commit` command on `ListExamples.java` and then entered my message before using `wq!` to save and quit out of the `git commit` command and received the message shown below. Then `git push` was used to push the changes onto the branch on github.
 
 ![Image](Lab4Step9.png)
+![Image](Lab4Step9-2.png)
